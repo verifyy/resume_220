@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"img":"d.jpg",
+		"name":"manvitha",
+         "roll":"1220",
+         "college":"vignan nirula",
+         "place":"guntur"
+	},
+	"career":{
+		"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills"
+},
+"educational":[
+	{
+		"degree":"b.tech",
+		"institute":"vignan",
+		"yop":"2020"
+	},
+	{
+		"degree":"intermediate",
+		"institute":"vignan girls college",
+		"yop":"2016"
+	},
+	{
+		"degree":"s.s.c",
+		"institute":"margadarsii school",
+		"yop":"2014"
+	}
+],
+"languages":[
+{
+	"lang":"telugu"
+},
+{
+	"lang":"english"
+},
+{
+	"lang":"hindi"
+}	
+
+],
+"skills":[
+	{
+		"title":"platforms",
+		"content":"windows,linux"
+	},
+	{
+		"title":"programming languages",
+		"content":"c,c++,java"
+	},
+	{
+		"title":"database",
+		"content":"mysql"
+	}
+
+
+]
+}
